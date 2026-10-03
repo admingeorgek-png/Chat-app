@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "ChatApp",
+    "slug": "chatapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#075E54"
+    },
+    "android": {
+      "package": "com.chatapp.mobile"
+    }
+  }
+}
